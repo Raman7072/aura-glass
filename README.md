@@ -17,7 +17,7 @@ Compatibility Arch / CachyOS, Fedora, Ubuntu / Debian
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/DevWebeloper/aura-glass.git
+git clone https://github.com/Raman7072/aura-glass.git
 cd aura-glass
 ./install.sh
 ```
